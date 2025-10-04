@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Full-Stack Developer** who loves building and shipping innovative products.  
+**Full-Stack Developer** who loves building and shipping innovative products.  
 I enjoy exploring new technologies, working with **React.js, Next.js, and TypeScript**,  
 and actively participate in hackathons and open-source projects.  
 Always excited to **collaborate and create impactful solutions!**  
