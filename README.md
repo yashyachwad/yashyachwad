@@ -31,6 +31,7 @@ Always excited to **collaborate and create impactful solutions!**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+![Render](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
  
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)   -->
